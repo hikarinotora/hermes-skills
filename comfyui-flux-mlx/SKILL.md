@@ -1,7 +1,7 @@
 ---
 name: comfyui-flux-mlx
 description: Run FLUX.1 on Apple Silicon Mac (M1-M4) with 24GB unified memory via ComfyUI + MLX framework. Works on the only reliable path — MPS/GGUF will produce NaN black images or dimension errors.
-author: 大本老师 + Hermes
+author: Benjamin Sun + Hermes
 platforms: [macos]
 hardware: Apple Silicon M1-M4, 24GB unified memory recommended
 ---

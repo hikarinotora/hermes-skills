@@ -1,7 +1,7 @@
 ---
 name: comfyui-flux2-gguf
 description: Run FLUX.2 [klein] on Apple Silicon Mac (M1-M4) with 24GB unified memory via ComfyUI + GGUF. Separate path from FLUX.1 — uses ComfyUI-GGUF nodes, Qwen3-4B text encoder (NOT Mistral).
-author: 大本老师 + Hermes
+author: Benjamin Sun + Hermes
 platforms: [macos]
 hardware: Apple Silicon M1-M4, 24GB unified memory recommended
 ---
